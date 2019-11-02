@@ -1,5 +1,5 @@
 
-Welcome to DeFiZap! [www.DeFiZap.com]
+Welcome to [DeFiZap!](https://DeFiZap.com)
 
 Zap is a smart contract that auto-spreads incoming deposits across multiple DeFi protocols based on pre-set allocations, bypassing many manual steps. You can send your deposit to a Zap of your choosing and receive allocated tokens.
 
@@ -12,4 +12,4 @@ Ultimately, we intend to allow our users to be able to create their own Zaps, ba
 Name your Zap.
 List of tokens you want to include in your Zap.
 Allocation %s for each asset included.
-We would love your feedback, suggestions and contributions! Join the conversation on our Telegram: https://t.me/DeFiZap
+We would love your feedback, suggestions and contributions! Join the conversation on our [Telegram](https://t.me/DeFiZap)
